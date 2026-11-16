@@ -7,3 +7,7 @@ Learning C, Java and Python
 Interested in Web Development and Technology
 
 Goal: Become a skilled software developer
+
+## Projects
+
+- Portfolio Website: A personal portfolio project created to showcase my introduction, skills, interests, and career goals.
