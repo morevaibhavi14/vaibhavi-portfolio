@@ -5,3 +5,5 @@ Hello! My name is Vaibhavi. I am a B.Tech student at REVA University, Bengaluru.
 Learning C, Java and Python
 
 Interested in Web Development and Technology
+
+Goal: Become a skilled software developer
